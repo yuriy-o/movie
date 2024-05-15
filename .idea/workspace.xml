@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8048a681-6bcb-4436-ab19-3d03e3d5fa77" name="Changes" comment="" />
+    <list default="true" id="8048a681-6bcb-4436-ab19-3d03e3d5fa77" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/features/Extra/Extra.test.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jest.polyfills.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/test-utils.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/features/Extra/Pager.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/Extra/Pager.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/rickandmorty.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/rickandmorty.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setupTests.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/setupTests.ts" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,6 +66,8 @@
       <updated>1715598339403</updated>
       <workItem from="1715598341539" duration="1286000" />
       <workItem from="1715599900208" duration="217000" />
+      <workItem from="1715694273457" duration="704000" />
+      <workItem from="1715775445629" duration="450000" />
     </task>
     <servers />
   </component>
